@@ -2,6 +2,8 @@
  Facial landmark detection is the task of detecting key landmarks on the face and tracking them
  Detecting 21 key landmarks on the face and tracking them.
  
+ model : 'lavenet.py'
+ 
  pretrained model download:- https://drive.google.com/open?id=1-Es2I7OmDqjKCUpG_wvMPWT6MXJPIi85
  
  dataset used:- 
