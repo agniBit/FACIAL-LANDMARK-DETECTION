@@ -98,14 +98,4 @@ class model(nn.Module):
         return pred_out
 
 
-#if __name__ == '__main__':
-#    img = cv2.imread("C:/Users/Abhi/Desktop/facial_landmarks/helen_dataset/helen-master/data/img/10406776_1.jpg")
-#    img = cv2.resize(img, (128, 128), cv2.INTER_LINEAR)
-#    ##print(img)
- #   img = ToTensor()(img).unsqueeze(0)  # unsqueeze to add artificial first dimension
-  #  ima = Variable(img)
-   # model = model()
-    #print(img.shape)
-    #model.forward(img)
-    #summary(model, (3, 128, 128), 32)
 
