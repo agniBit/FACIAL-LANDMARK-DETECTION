@@ -7,7 +7,7 @@
  pretrained model download:- https://drive.google.com/open?id=1-Es2I7OmDqjKCUpG_wvMPWT6MXJPIi85
  
  dataset used:- 
- Annotated Facial Landmarks in the Wild (AFLW frontal)  (https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
+ Annotated Facial Landmarks in the Wild (AFLW)  (https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
  
  sample predictions:-
  
