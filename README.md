@@ -9,6 +9,11 @@
  ![model_graph](https://user-images.githubusercontent.com/33664965/71303408-407f0700-23de-11ea-9cbc-9f8db6575720.png)
  
  
+ pretrained model download:- https://drive.google.com/open?id=1-Es2I7OmDqjKCUpG_wvMPWT6MXJPIi85
+ 
+ dataset used:- 
+ Annotated Facial Landmarks in the Wild (AFLW)  (https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
+ 
  
  sample predictions:-
  
